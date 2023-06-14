@@ -1,0 +1,33 @@
+.navbar {
+  width: 100vw;
+  background-color: #24252a;
+  display: flex;
+  justify-content: space-between;
+  height: 4rem;
+  align-items: center;
+}
+
+.middle-navbar-content {
+  display: flex;
+  justify-content: space-between;
+  width: 125px;
+}
+.home-logo {
+  font-family: "Rowdies", cursive;
+  font-family: "Rubik Iso", cursive;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-family: "Red-Hat-Dispay", sans-serif;
+  color: #f9f6f0;
+}
+
+.home-logo-container,
+.middle-navbar-content,
+.contact-container {
+ padding-left: 50px;
+ padding-right: 50px;
+}
+
+.links{
+    color: #f9f6f0;
+}
