@@ -6,7 +6,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className = "home-logo-container">
         <Link to="/">
-          <p className="home-logo">Navbar Consultants</p>
+          <p className="home-logo">Home</p>
         </Link>
       </div>
       <div className="middle-navbar-content">

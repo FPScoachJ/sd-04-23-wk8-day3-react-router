@@ -1,0 +1,10 @@
+.account-container{
+    display: flex;
+    height: 400px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.account-list{
+    font-size: 50px;
+}
