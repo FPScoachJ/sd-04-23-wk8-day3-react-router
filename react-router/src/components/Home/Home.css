@@ -2,3 +2,11 @@ img{
     width: 400px;
     height: 400px;
 }
+
+.home-container{
+    display: flex;
+    height: 400px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
